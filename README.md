@@ -1,33 +1,25 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Doto&weight=700&size=40&duration=4400&pause=1000&center=true&vCenter=true&width=800&height=80&lines=Welcome+to+the+BullzLabz+Github!;I'm+Franck+M;Senior+Graphic+Designer+%26+Web+Dev" />
 </h1>
-
-<div align="right">
+<div align="center">
     <img src="https://komarev.com/ghpvc/?username=BullzLabzy&style=for-the-badge&color=blue" alt="Profile views" />
 </div>
-
-<h2 align="center">BullzLabz /// Franck M. - Senior Graphic Designer & Full Stack Web Developer </h2>
-
 ---
-
 ## 🎯 **About Me**
 
 <div align='center'>
- 
 💼 **20+ Years of Professional Experience**  
 🌟 **High-end Visual Solutions /// Packaging /// Front-End // ADs /// UI Design**
-
 </div>
-
+<div align='center'>
 I’m a senior designer with 20+ years of experience, delivering **high-end visual solutions** across branding, packaging, advertising, and digital design — with a strong specialization in packaging and vector execution. I’ve worked with hundreds of startups and established brands, helping them build, launch, and scale products with visuals that are clear, consistent, and production-ready.
 
 I’m known for being reliable, fast, and extremely precise. Clients work with me because they want fewer revisions, fewer mistakes, and results that translate smoothly from concept to execution.
 Whether you need a one-off project or a long-term creative partner, I offer clear communication, structured workflows, and high standards.
 
 Send me a message — even a quick one — and let’s see how I can help move your project forward.
-
+</div>
 ---
-
 ## ⚙️ **MY CORE EXPERTISE**
 
 ### 🧠 **AI & Machine Learning:**
@@ -35,48 +27,26 @@ Send me a message — even a quick one — and let’s see how I can help move y
 - **2️⃣ Advanced Illustrator Vectorization**: Clean, Precise, Scalable files (SVG) 🤖
 - **3️⃣ Dielines**: Print-ready Artwork & Production constraints 📝
 - **4️⃣ 3D Realistic Mockups**: Presentations, Marketing, Social Networks, ADs 📊
-- **4️⃣ Advertising**: Social Media ADS, Digital Visuals, Print ADS 📊
-- **4️⃣ Amazon Listings**: A+ Content & storefront design 📊
-- **4️⃣ UI/UX Design**: Front-End Web, Mobile, App 📊
+- **5️⃣ Advertising**: Social Media ADS, Digital Visuals, Print ADS 📊
+- **6️⃣ Amazon Listings**: A+ Content & storefront design 📊
+- **7️⃣ UI/UX Design**: Front-End Web, Mobile, App 📊
 
 ### 💻 **Full-Stack Web Development:**
-- **1️⃣ Frontend**: HTML, CSS, SVG, JQuery ⚡
+- **Frontend**: HTML, CSS, SVG, JQuery ⚡
 
-### 🔧 **Core Languages:**
+### 🔧 **Core 6️⃣:**
 - **⭕ AppleScript** (Proficient) 🐍
 - **⭕ CSSt** (Expert) 📜
 - **⭕ HTML** (Expert) 🦀
 - **⭕ JS** (Proficient) ⚙️
 
 ---
-
-## 🚀 **FEATURED PROJECTS & EXPERIENCE**
-
-
----
-
 ## 🛠️ **Languages, Frameworks & Tools**
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=ae,au,ai,ps,blender" /><br>
     <img src ="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,jquery,svg,vscode,arduino" /><br>
 </div>
-
----
-
-## 📊 **GitHub Statistics**
-
-<div align="center">
-<h2 align="center">📈 My GitHub Stats</h2>
-
-<a href="http://www.github.com/BullzLabz"><img src="https://github-readme-stats.vercel.app/api?username=BullzLabz&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="BullzLabz GitHub stats" /></a>
-
-<a href="http://www.github.com/BullzLabz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BullzLabz&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/BullzLabz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BullzLabz&layout=compact&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-</div>
-
 ---
 
 ## 💖 **Support My Work**
