@@ -2,8 +2,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Doto&weight=700&size=40&duration=4400&pause=1000&center=true&vCenter=true&width=800&height=80&lines=Welcome+to+the+BullzLabz+Github!;I'm+Franck+M;Senior+Graphic+Designer+%26+Web+Dev" />
 </h1>
 
----
-
 ## 🎯 **About Me**
 
 <div align='center'>
@@ -19,8 +17,6 @@ Whether you need a one-off project or a long-term creative partner, I offer clea
 
 Send me a message — even a quick one — and let’s see how I can help move your project forward.
 </div>
-
----
 
 ## ⚙️ **MY CORE EXPERTISE**
 
@@ -42,8 +38,6 @@ Send me a message — even a quick one — and let’s see how I can help move y
 - **⭕ HTML** (Expert) 🦀
 - **⭕ JS** (Proficient) ⚙️
 
----
-
 ## 🛠️ **Languages, Frameworks & Tools**
 
 <div align="center">
@@ -51,21 +45,15 @@ Send me a message — even a quick one — and let’s see how I can help move y
     <img src ="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,jquery,svg,vscode,arduino" /><br>
 </div>
 
----
-
 ## 💖 **Support My Work**
 
 <div align="center">
 <a href="https://www.buymeacoffee.com/artfaks" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 </div>
 
----
-
 <div align="center">
 <h3>🚀 Ready to build something exceptional? Let's connect and discuss how I can bring your vision to life! 🚀</h3>
 </div>
-
----
 
 <div align="center">
 <i>⭐ Don't forget to star some repositories if you find them interesting! ⭐</i>
