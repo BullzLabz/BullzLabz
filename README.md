@@ -1,16 +1,16 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Doto&weight=700&size=40&duration=4400&pause=1000&center=true&vCenter=true&width=800&height=80&lines=Welcome+to+the+BullzLabz+Github!;I'm+Franck+M;Senior+Graphic+Designer+%26+Web+Dev" />
 </h1>
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=BullzLabzy&style=for-the-badge&color=blue" alt="Profile views" />
-</div>
+
 ---
+
 ## 🎯 **About Me**
 
 <div align='center'>
 💼 **20+ Years of Professional Experience**  
 🌟 **High-end Visual Solutions /// Packaging /// Front-End // ADs /// UI Design**
 </div>
+
 <div align='center'>
 I’m a senior designer with 20+ years of experience, delivering **high-end visual solutions** across branding, packaging, advertising, and digital design — with a strong specialization in packaging and vector execution. I’ve worked with hundreds of startups and established brands, helping them build, launch, and scale products with visuals that are clear, consistent, and production-ready.
 
@@ -19,7 +19,9 @@ Whether you need a one-off project or a long-term creative partner, I offer clea
 
 Send me a message — even a quick one — and let’s see how I can help move your project forward.
 </div>
+
 ---
+
 ## ⚙️ **MY CORE EXPERTISE**
 
 ### 🧠 **AI & Machine Learning:**
@@ -41,12 +43,14 @@ Send me a message — even a quick one — and let’s see how I can help move y
 - **⭕ JS** (Proficient) ⚙️
 
 ---
+
 ## 🛠️ **Languages, Frameworks & Tools**
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=ae,au,ai,ps,blender" /><br>
     <img src ="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,jquery,svg,vscode,arduino" /><br>
 </div>
+
 ---
 
 ## 💖 **Support My Work**
